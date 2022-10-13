@@ -1,1 +1,1 @@
-Bu proje Batch5 grubundan Emre UNAL'ın GIT çalışmasıdır.
+Bu proje Batch5 grubundan Emre UNAL'ın birinci GIT çalışmasıdır.

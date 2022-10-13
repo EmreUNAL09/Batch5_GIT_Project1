@@ -1,0 +1,1 @@
+Bu proje Batch5 grubundan Emre UNAL'ın GIT çalışmasıdır.
